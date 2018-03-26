@@ -54,4 +54,3 @@ spec:
     color: blue
   type: ClusterIP
 ---
-
